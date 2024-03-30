@@ -1,0 +1,8 @@
+network_file: net20.txt
+#network_file: network.txt
+ranks : 4
+num : 50
+initial_rumor_count: 1
+stop.at: 1000
+rumor_probability: 0.25
+counts_file: output/rumor_counts.csv
